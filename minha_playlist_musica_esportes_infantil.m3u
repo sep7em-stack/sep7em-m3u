@@ -1,0 +1,13 @@
+#EXTM3U
+# Playlist de canais gratuitos/publicamente disponíveis
+# Categorias: Música, Esportes e Infantil
+# Observação: os streams podem mudar ou ficar indisponíveis.
+
+#EXTINF:-1 group-title="Música",Playlist oficial IPTV-org — Música
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+#EXTINF:-1 group-title="Esportes",Playlist oficial IPTV-org — Esportes
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Infantil",Playlist oficial IPTV-org — Infantil
+https://iptv-org.github.io/iptv/categories/kids.m3u
